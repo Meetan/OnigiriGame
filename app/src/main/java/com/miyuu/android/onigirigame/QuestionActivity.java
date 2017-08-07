@@ -41,7 +41,7 @@ public class QuestionActivity extends AppCompatActivity {
     //startメソッド
     public void start() {
 
-        //setImageResource　でImageViewに画像を設定できるよ！
+        //setImageResource　でImageButtonに画像を設定できるよ！
         //初期の画像（具が見えないおにぎり）を設定
         onigiriButton1.setImageResource(R.drawable.onigiri);
         onigiriButton2.setImageResource(R.drawable.onigiri);
